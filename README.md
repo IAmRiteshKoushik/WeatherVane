@@ -6,7 +6,7 @@ Simple weather application created using HTML, CSS and JavaScript
 ```
 git clone https://github.com/IAmRiteshKoushik/WeatherVane.git
 ```
-**Generate** API Keys from [OpenWeather-API](https://openweathermap.org/) platform. The alter the first line of `script.js`
+**Generate** API Keys from [OpenWeather-API](https://openweathermap.org/) platform. Then alter the first line of `script.js`
 ```JavaScript
 const apiKey = "Your apiKey here";
 ```
